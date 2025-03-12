@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello world!
+
+##About me:
+Hi! I'm Rodrigo Todescatto, I'm 15 and live on Brazil, I work on WinDurango and some other personal projects too. The programming language I use the most is C++.
 
 <!--
 **Rodrigo-Todescatto/Rodrigo-Todescatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
