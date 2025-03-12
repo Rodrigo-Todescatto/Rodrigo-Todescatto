@@ -1,6 +1,4 @@
 ## Hello world!
-
-##About me:
 Hi! I'm Rodrigo Todescatto, I'm 15 and live on Brazil, I work on WinDurango and some other personal projects too. The programming language I use the most is C++.
 
 <!--
